@@ -1,0 +1,174 @@
+[[Quiver]]
+arch = "aarch64"
+git-tree-sha1 = "8a85365fcca8c4f60f7e8a87e4fd87872a3d2cfd"
+os = "macos"
+
+    [[Quiver.download]]
+    sha256 = "ee8e1f25622197f5480d8e8021e606147a10359737f6e1c1d577aa1f6ebea991"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.aarch64-apple-darwin.tar.gz"
+[[Quiver]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a2c2f33c0be63a8f74905cf79f1422a1e3805803"
+libc = "glibc"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "81b48616eba1a7f3363662decd6911eace33d5c97bf6b62c6b05214f3072e128"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Quiver]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b8aa080c82b5bf5e64bbb2d8e51601f4aba0d040"
+libc = "musl"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "90c6d629e87db9f3be2a4e80b900792f0567efce648c013f48483436752e1f2f"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Quiver]]
+arch = "aarch64"
+git-tree-sha1 = "703d7e6856b547f3024044e665cc6a1b777248ac"
+os = "freebsd"
+
+    [[Quiver.download]]
+    sha256 = "2562644f045030dde4f954faf7c7b16243a68203ccee7fa42cd50285c3c411e5"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.aarch64-unknown-freebsd.tar.gz"
+[[Quiver]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "411360ad70d74d4668502e27a69035b2ab0314fe"
+libc = "glibc"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "50effdc1a0bdbaf223b0880102cd7e26747fc607faed6e491c81b10195d880b1"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Quiver]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a0d032b5aa2c913e7fd9f73933f69d8af41c66a0"
+libc = "musl"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "ebfa79ee7bb14c5fd335d964c696aa6add693faa450b99ef95c210bcb77264cf"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Quiver]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9132b0b8a736a5dd87b1f7408c3070244dba818f"
+libc = "glibc"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "ebe913ee43aa335a8fa4885524923971abcbd03ff3ada46f308746378e1af560"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Quiver]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "95ea52a0b37523307d00300e62f5c41235a21e53"
+libc = "musl"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "2fba09e3177b89aa16028c4c1ea96ace91948db67e378af57e9c81787e5ae436"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Quiver]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "86ee4649a16a5864c7f17edfe87ebb4bed6b020d"
+libc = "glibc"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "2641b5b1da9c4e16aa27a2050fcabb6b4feb7f1637250afb1231a13ff7d2fca6"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[Quiver]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99d00f0934c2ff79c5fe774d9b3dced7128df121"
+libc = "musl"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "b122e9efba8c92498fc501f6a46a5e8d9cdee3b03f57b93d5097affe53435dad"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.i686-linux-musl-cxx11.tar.gz"
+[[Quiver]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cfdd291ac67d2d80ea86aba4413e39d49d39fed6"
+os = "windows"
+
+    [[Quiver.download]]
+    sha256 = "ab2a7d4b49606835756d8fd27cb223317684ebed8d120d8460858cabad1ce766"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Quiver]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c79f9c8168929b30627e7133d0576012e7d0dc4b"
+libc = "glibc"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "575fa2e84174b43d769eeca18728ba3e4122188acb4cc3516275812e389f646a"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Quiver]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc83efb6c4503b2d8a93a6e20cac66511508e398"
+libc = "glibc"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "c77a8136fc132f9486ab2a8f6f66627bfb28bdc5aecdc9b9ddb20572bbc9f1e0"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[Quiver]]
+arch = "x86_64"
+git-tree-sha1 = "daedbacc4f3ba9d021f912d38cffa33208a35572"
+os = "macos"
+
+    [[Quiver.download]]
+    sha256 = "08b749e819033c8cee7d4a302254eb8e732de1a572a0158f7a61bb7aaa80755d"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.x86_64-apple-darwin.tar.gz"
+[[Quiver]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dc41bd19222a6eaa29264c452dc13232244ce7ee"
+libc = "glibc"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "90277eeed0885a2b9a62f3530088489d4c9ce3f62b2d335d12c7213064e329ab"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Quiver]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b69da62dc4a5d2619620e0e26cbae87bd18edc38"
+libc = "musl"
+os = "linux"
+
+    [[Quiver.download]]
+    sha256 = "afd94e5a02f6597432dc1727217eeecb5d7698db32e91cc8396de37f59cc2d5c"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Quiver]]
+arch = "x86_64"
+git-tree-sha1 = "e709c98db755b3baf9f0d34f368a1e5fb1302ec2"
+os = "freebsd"
+
+    [[Quiver.download]]
+    sha256 = "c8aa57abd384c2e37dd4f868bdea7220fe0682a51533ae4485dd589e54748460"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.x86_64-unknown-freebsd.tar.gz"
+[[Quiver]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a8d68be57a1ec0695e75202fcc93f3ae16679c5b"
+os = "windows"
+
+    [[Quiver.download]]
+    sha256 = "6fe17816c702322cc642ec2ce2f192f3c77814a01dfd3ebedd6be261f6ce987e"
+    url = "https://github.com/JuliaBinaryWrappers/Quiver_jll.jl/releases/download/Quiver-v0.2.0+0/Quiver.v0.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
