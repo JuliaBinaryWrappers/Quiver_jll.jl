@@ -8,13 +8,13 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libquiver,
-        "lib/libquiver.0.2.0.dylib",
+        "lib/libquiver.0.5.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libquiver_c,
-        "lib/libquiver_c.0.2.0.dylib",
+        "lib/libquiver_c.0.5.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
